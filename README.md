@@ -1,4 +1,4 @@
-# Block-Chain Based Voting System
+# AITUVote voting system
 
 This project is blockchain based voting dapp created in React and Solidity.
 
@@ -52,12 +52,3 @@ yarn start
 
 Visit URL in your browser: <http://localhost:3000>
 
-## Next Steps
-
-- Better legitimate user checking through biometrics
-- Better voters and candidate data insertion
-- Multiple candidate positions for voting
-
-## Note
-
-This project is not intended to be a fully fledged voting system. It is just a proof of concept to understand the basics of blockchain technology. It is done as a final project of Blockchain Fellowship 2022 by [esatya.io](https://esatya.io/fellowship/2021).# AituVote
