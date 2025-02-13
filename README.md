@@ -14,11 +14,6 @@ c) Immutable
 
 This project is a simple implementation of a voting system done to understand the basics of ethereum blockchain technology and the working mechanism of decentralized application made in Solidity and React. Here, one account who deploys the smart contract is the Admin and he/she can add voters and candidates that are eligible to cast the vote.  Then, the admin starts the election and eligible voters can vote for their favorite candidate. Finally, when admin ends the election, the voters can immediately see the final result of the election.
 
-## Screenshots
-
-![coverpage](screenshots/cover.png) &nbsp;
-![vote](screenshots/vote.png) &nbsp;
-![admin](screenshots/admin.png) &nbsp;
 
 ## Installation
 
